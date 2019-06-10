@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header tests Snapshot in homepage test 1`] = `
+<div
+  className="header"
+>
+  <div
+    className="header__app-title"
+  >
+    MOOVIE IT MOVIE CHALLENGE
+  </div>
+</div>
+`;
+
+exports[`Header tests Snapshot in movie detail page test 1`] = `
+<div
+  className="header"
+>
+  <button
+    className="header__back-button"
+    onClick={[MockFunction]}
+  >
+    <img
+      alt="back-icon"
+      className="album__header-img"
+      src="left-arrow.png"
+    />
+  </button>
+  <div
+    className="header__app-title"
+  >
+    MOOVIE IT MOVIE CHALLENGE
+  </div>
+</div>
+`;

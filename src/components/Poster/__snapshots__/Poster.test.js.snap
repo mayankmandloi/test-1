@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Poster tests Snapshot test 1`] = `
+<div
+  className="poster-container"
+>
+  <img
+    alt="poster-preview"
+    className="poster-container__img"
+    src="https://image.tmdb.org/t/p/w342//movie/53213"
+  />
+  <div
+    className="poster-container__header"
+  >
+    <span
+      className="poster-container__header-title"
+    >
+      matrix
+    </span>
+    <span
+      className="poster-container__header-subtitle"
+    >
+      123
+      /10 
+      Mond
+    </span>
+  </div>
+</div>
+`;

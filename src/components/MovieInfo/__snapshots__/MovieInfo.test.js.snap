@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieInfo tests Snapshot test 1`] = `
+<div
+  className="movie-info-container"
+>
+  <div
+    className="movie-info-container__overview row"
+  >
+    <div
+      className="movie-info-container__title"
+    >
+      matrix
+    </div>
+    <div
+      className="movie-info-container__subtitle"
+    >
+      Overview
+    </div>
+    <p>
+      a great movie
+    </p>
+  </div>
+  <div
+    className="movie-info-container__averages row"
+  >
+    <div
+      className="movie-info-container__subtitle"
+    >
+      Vote average: 
+      22
+    </div>
+    <div
+      className="movie-info-container__subtitle"
+    >
+      Vote count: 
+      44
+    </div>
+    <div
+      className="movie-info-container__subtitle"
+    >
+      Original Release: 
+      Mond
+    </div>
+  </div>
+  <div
+    className="movie-info-container__trailer row"
+  >
+    <div
+      className="trailer-list"
+    >
+      <div
+        className="trailer-list__trailers"
+      >
+        <iframe
+          allow="autoplay"
+          allowFullScreen={true}
+          frameBorder="0"
+          height="345"
+          src="https://www.youtube.com/embed/213123?autoplay=1"
+          title="213123"
+          width="100%"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

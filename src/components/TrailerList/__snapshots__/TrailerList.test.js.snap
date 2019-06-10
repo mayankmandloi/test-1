@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Trailer tests Snapshot test 1`] = `
+<iframe
+  allow="autoplay"
+  allowFullScreen={true}
+  frameBorder="0"
+  height="345"
+  src="https://www.youtube.com/embed/as213?autoplay=1"
+  title="as213"
+  width="100%"
+/>
+`;
+
+exports[`TrailerList tests Snapshot test 1`] = `
+<div
+  className="trailer-list"
+>
+  <div
+    className="trailer-list__trailers"
+  >
+    <iframe
+      allow="autoplay"
+      allowFullScreen={true}
+      frameBorder="0"
+      height="345"
+      src="https://www.youtube.com/embed/3213?autoplay=1"
+      title="3213"
+      width="100%"
+    />
+  </div>
+</div>
+`;
